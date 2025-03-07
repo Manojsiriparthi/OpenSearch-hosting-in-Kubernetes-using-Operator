@@ -1,0 +1,1 @@
+# OpenSearch-hosting-in-Kubernetes-using-Operator
